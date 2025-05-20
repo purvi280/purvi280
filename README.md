@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purvi280
+- 👋 Hi, I’m Purvi Rathod 
 
 I'm a passionate and detail-oriented manual tester with internship experience in identifying bugs, writing test cases, and ensuring product quality.
 
